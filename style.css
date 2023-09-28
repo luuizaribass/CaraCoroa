@@ -20,8 +20,8 @@ body {
 header {
     background-color: #fff8cf;
     box-shadow: 21px 20px 22px 10px rgba(0,0,0,0.76);
-    height: 500px;
-    width: 1200px;
+    height: 600px;
+    width: 1000px;
     border-radius: 20px;
     display: grid;
     justify-content: center;
@@ -84,6 +84,8 @@ button {
     border-radius: 8px;
     box-shadow: 0 0 0 #af925cbd;
     transition: all .3s ease-in-out;
+    width: 180px;
+    height: 80px;
   }
   
   .star-1 {
@@ -170,7 +172,7 @@ button {
   
   button:hover .star-2 {
     position: absolute;
-    top: -25%;
+    top: -30%;
     left: 10%;
     width: 15px;
     height: auto;
@@ -190,7 +192,7 @@ button {
   
   button:hover .star-4 {
     position: absolute;
-    top: 30%;
+    top: 70%;
     left: 80%;
     width: 8px;
     height: auto;
@@ -219,7 +221,7 @@ button {
   }
   
   .fil0 {
-    fill: #FFFDEF
+    fill:rgb(221,133,54);
   }
 
 /* fim botao uiverse */
