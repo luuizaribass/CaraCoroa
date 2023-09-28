@@ -84,7 +84,7 @@ button {
   box-shadow: 0 0 0 #af925cbd;
   transition: all .3s ease-in-out;
   width: 180px;
-  height: 60px;
+  height: 50px;
 }
 
 .star-1 {
@@ -229,3 +229,7 @@ a {
 }
 
 /* fim botao uiverse */
+
+.capa {
+  margin-bottom: 20px;
+}
